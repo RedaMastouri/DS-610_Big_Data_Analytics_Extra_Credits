@@ -71,3 +71,28 @@ You can find more information about this dataset in the website of [Statistical 
 ## Questions
 
 The repository should be self descriptive and it should guide you through assignment. Let me know if you have any questions.
+
+
+----------
+1-
+
+Throughout 2024, I have been highly adaptable and committed to advancing my contributions to the organization's cybersecurity infrastructure. When a significant gap arose after the departure of the principal Splunk engineer, I stepped into the role seamlessly, wearing multiple hats and managing a diverse suite of critical security tools. This proactive shift demonstrates my commitment to *Ownership* and my ability to *Deliver Results* under high-pressure conditions, ensuring the continuity of mission-critical operations.
+
+During this transition, I not only maintained our Splunk environment by optimizing resource allocation, patching, and scaling, but I also expanded our capabilities by integrating advanced telemetry solutions from Contrast Security, Snowflake, and Microsoft Sentinel SIEM. These efforts reflect a deep commitment to *Customer Obsession*, as I proactively addressed evolving security needs to strengthen our overall defensive posture.
+
+In taking on the additional responsibilities of ExaBeam UBA use-case development and CrowdStrike administration, I demonstrated a *Bias for Action* by streamlining processes and ensuring that our security architecture remains resilient and scalable. These initiatives have not only improved our threat detection capabilities but also enhanced compliance and governance, creating a more robust security ecosystem for the business.
+
+My ongoing pursuit of certifications, including the CCFA, CCFR, and Splunk Core User credentials, is further evidence of my commitment to *Learning and Being Curious*. By continuously investing in both my professional development and my academic journey as a PhD candidate in Artificial Intelligence and Decision Networks, I ensure that I remain at the forefront of technological advancements and bring cutting-edge insights back into our security framework.
+
+Moreover, stepping into the Lead Analyst role during times of team shortages allowed me to further demonstrate *Insisting on the Highest Standards*. By triaging and investigating critical security incidents with precision, I ensured swift resolutions while maintaining detailed documentation that has become a key knowledge resource within the organization. My ability to *Earn Trust* through clear communication and my contributions to building a culture of continuous improvement are evident in the respect and recognition I’ve garnered from both leadership and peers.
+
+Looking ahead, I remain focused on *Thinking Big* by driving strategic initiatives that align with our long-term goals, scaling our security infrastructure, and ensuring operational excellence. My role has continuously expanded to cover broader responsibilities, and I look forward to continuing to deliver high-impact outcomes that benefit both our customers and the organization as a whole.
+----
+2- 
+Throughout 2024, I’ve remained committed to embracing and advancing the company’s Principles, ensuring that the work I deliver reflects the highest standards. Stepping into new roles and taking on expanded responsibilities in security engineering, I’ve prioritized not only technical excellence but also the well-being and growth of the team. This commitment is deeply tied to the Corporate Belonging and Inclusion initiative, where I’ve actively mentored peers, shared knowledge openly, and fostered a sense of collaboration across teams. My focus has always been on ensuring that both the team and our security infrastructure continue to evolve, making us stronger and more resilient, while creating an inclusive environment where everyone can contribute meaningfully.
+
+------
+  This year, I have been deeply involved in strengthening our risk management framework, prioritizing a proactive approach to identifying vulnerabilities and aligning our operations with compliance standards. With the departure of key personnel, I quickly took charge of critical security functions, ensuring seamless continuity and robust control over risk-sensitive areas. By closely monitoring risk indicators and implementing preventive measures across our security tools, I upheld a culture of accountability that directly supports our organizational objectives.
+A key area where I have embodied risk culture is through the holistic management of our Splunk environment and associated telemetry tools like CrowdStrike, ExaBeam, and Microsoft Sentinel. My ability to promptly escalate potential security risks and implement timely solutions has been a cornerstone of my contributions, ensuring that no gaps were left unaddressed in our risk management processes. This involved continuously updating compliance requirements and integrating effective controls to align with regulatory frameworks and audit requirements. Additionally, I have contributed to creating a culture of open dialogue and transparency, encouraging team members to raise risk-related concerns, thus aligning with the company’s Three Lines of Defense strategy.
+
+My work extends beyond just compliance, as I have been instrumental in documenting processes and developing best practices that are shared across the team, driving a collective understanding of risk ownership. This not only reinforces accountability but also ensures that we are equipped to respond to audit and regulatory inquiries with accuracy and efficiency. These actions have resulted in improved team competency around risk control and governance, while demonstrating my personal commitment to a strong risk culture.
